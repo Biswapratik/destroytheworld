@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("Hello World")
     }
-// testing merging with conflict yayy
+// testing merging with conflict
 
 }
 
